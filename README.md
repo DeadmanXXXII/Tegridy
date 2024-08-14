@@ -13,10 +13,15 @@ This is effectively a blockchain Ddos attack.
 
 ![Code](https://raw.githubusercontent.com/DeadmanXXXII/Tegridy/main/Screenshot_20240814-090101.png)
 
+![New terminal](https://raw.githubusercontent.com/DeadmanXXXII/Tegridy/main/Screenshot_20240814-090511.png)
+
+![Outputs](https://raw.githubusercontent.com/DeadmanXXXII/Tegridy/main/Screenshot_20240814-091312.png)
+
 
 # Blockchain DDoS on the Intigriti Platform
 ## An Analysis of the Tegridy.py Attack
 
+**Attack architect** [DeadmanXXXII aka Blu Corbel]
 **Author:** [DeadmanXXXII aka Blu Corbel]  
 **Date:** [11:00 am gmt 14/08/2024]
 
@@ -171,5 +176,9 @@ Here is the continuation and completion of the references section:
   - [Common Weakness Enumeration (CWE)](https://cwe.mitre.org/)
   - [Tegridy.py Script Repository](https://github.com/DeadmanXXXII/Tegridy) - Repository where the script and related materials are available.
   - [Intigriti Platform Overview](https://app.intigriti.com/) - The platform targeted in this analysis.
+
+![Banned](https://raw.githubusercontent.com/DeadmanXXXII/Tegridy/main/Screenshot_20240814-113529.png)
+
+# Due to being banned I cannot report this 😂😂
 
 ---

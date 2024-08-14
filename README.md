@@ -12,7 +12,7 @@ This is effectively a blockchain Ddos attack.
 
 ![Code](https://raw.githubusercontent.com/DeadmanXXXII/Tegridy/main/Screenshot_20240814-090101.png)
 
-![New terminal](https://raw.githubusercontent.com/DeadmanXXXII/Tegridy/main/Screenshot_20240814-090511.png)
+![New terminal](https://raw.githubusercontent.com/DeadmanXXXII/Tegridy/main/Screenshot_20240814-090429.png)
 
 ![Outputs](https://raw.githubusercontent.com/DeadmanXXXII/Tegridy/main/Screenshot_20240814-091312.png)
 

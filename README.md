@@ -6,3 +6,7 @@ python3 tegridy.py
 ```
 
 new terminal repeat.
+
+This is effectively a blockchain Ddos attack.
+
+

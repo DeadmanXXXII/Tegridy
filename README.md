@@ -176,6 +176,8 @@ Here is the continuation and completion of the references section:
   - [Tegridy.py Script Repository](https://github.com/DeadmanXXXII/Tegridy) - Repository where the script and related materials are available.
   - [Intigriti Platform Overview](https://app.intigriti.com/) - The platform targeted in this analysis.
 
+# Certificate of effectiveness 😂😂🤙🤙
+
 ![Banned](https://raw.githubusercontent.com/DeadmanXXXII/Tegridy/main/Screenshot_20240814-113529.png)
 
 # Due to being banned I cannot report this 😂😂
